@@ -1,6 +1,6 @@
 FROM alpine/java:11.0.22-jdk
       
-EXPOSE 8080
+EXPOSE 9090
  
 ENV APP_HOME /usr/src/app
 
